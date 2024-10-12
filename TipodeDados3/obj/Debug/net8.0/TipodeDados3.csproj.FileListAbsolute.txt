@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\TipodeDados3\bin\Debug\net8.0\TipodeDados3.exe
+C:\cursos\CSFundamentos1\TipodeDados3\bin\Debug\net8.0\TipodeDados3.deps.json
+C:\cursos\CSFundamentos1\TipodeDados3\bin\Debug\net8.0\TipodeDados3.runtimeconfig.json
+C:\cursos\CSFundamentos1\TipodeDados3\bin\Debug\net8.0\TipodeDados3.dll
+C:\cursos\CSFundamentos1\TipodeDados3\bin\Debug\net8.0\TipodeDados3.pdb
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.dll
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\refint\TipodeDados3.dll
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.pdb
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\TipodeDados3.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\TipodeDados3\obj\Debug\net8.0\ref\TipodeDados3.dll

@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\instrucaoFor\bin\Debug\net8.0\instrucaoFor.exe
+C:\cursos\CSFundamentos1\instrucaoFor\bin\Debug\net8.0\instrucaoFor.deps.json
+C:\cursos\CSFundamentos1\instrucaoFor\bin\Debug\net8.0\instrucaoFor.runtimeconfig.json
+C:\cursos\CSFundamentos1\instrucaoFor\bin\Debug\net8.0\instrucaoFor.dll
+C:\cursos\CSFundamentos1\instrucaoFor\bin\Debug\net8.0\instrucaoFor.pdb
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.dll
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\refint\instrucaoFor.dll
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.pdb
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\instrucaoFor.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\instrucaoFor\obj\Debug\net8.0\ref\instrucaoFor.dll

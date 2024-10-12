@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\operadoresAritimeticos\bin\Debug\net8.0\operadoresAritimeticos.exe
+C:\cursos\CSFundamentos1\operadoresAritimeticos\bin\Debug\net8.0\operadoresAritimeticos.deps.json
+C:\cursos\CSFundamentos1\operadoresAritimeticos\bin\Debug\net8.0\operadoresAritimeticos.runtimeconfig.json
+C:\cursos\CSFundamentos1\operadoresAritimeticos\bin\Debug\net8.0\operadoresAritimeticos.dll
+C:\cursos\CSFundamentos1\operadoresAritimeticos\bin\Debug\net8.0\operadoresAritimeticos.pdb
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.dll
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\refint\operadoresAritimeticos.dll
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.pdb
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\operadoresAritimeticos.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\operadoresAritimeticos\obj\Debug\net8.0\ref\operadoresAritimeticos.dll

@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\CassesMetodos\bin\Debug\net8.0\CassesMetodos.exe
+C:\cursos\CSFundamentos1\CassesMetodos\bin\Debug\net8.0\CassesMetodos.deps.json
+C:\cursos\CSFundamentos1\CassesMetodos\bin\Debug\net8.0\CassesMetodos.runtimeconfig.json
+C:\cursos\CSFundamentos1\CassesMetodos\bin\Debug\net8.0\CassesMetodos.dll
+C:\cursos\CSFundamentos1\CassesMetodos\bin\Debug\net8.0\CassesMetodos.pdb
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.dll
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\refint\CassesMetodos.dll
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.pdb
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\CassesMetodos.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\CassesMetodos\obj\Debug\net8.0\ref\CassesMetodos.dll

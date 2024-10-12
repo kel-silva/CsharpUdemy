@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\Nullable\bin\Debug\net8.0\Nullable.exe
+C:\cursos\CSFundamentos1\Nullable\bin\Debug\net8.0\Nullable.deps.json
+C:\cursos\CSFundamentos1\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+C:\cursos\CSFundamentos1\Nullable\bin\Debug\net8.0\Nullable.dll
+C:\cursos\CSFundamentos1\Nullable\bin\Debug\net8.0\Nullable.pdb
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.dll
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.pdb
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\Nullable\obj\Debug\net8.0\ref\Nullable.dll

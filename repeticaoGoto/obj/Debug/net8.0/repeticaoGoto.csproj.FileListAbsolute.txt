@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\repeticaoGoto\bin\Debug\net8.0\repeticaoGoto.exe
+C:\cursos\CSFundamentos1\repeticaoGoto\bin\Debug\net8.0\repeticaoGoto.deps.json
+C:\cursos\CSFundamentos1\repeticaoGoto\bin\Debug\net8.0\repeticaoGoto.runtimeconfig.json
+C:\cursos\CSFundamentos1\repeticaoGoto\bin\Debug\net8.0\repeticaoGoto.dll
+C:\cursos\CSFundamentos1\repeticaoGoto\bin\Debug\net8.0\repeticaoGoto.pdb
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.dll
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\refint\repeticaoGoto.dll
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.pdb
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\repeticaoGoto.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\repeticaoGoto\obj\Debug\net8.0\ref\repeticaoGoto.dll

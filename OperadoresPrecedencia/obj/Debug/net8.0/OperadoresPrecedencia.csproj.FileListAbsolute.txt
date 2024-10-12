@@ -1,0 +1,14 @@
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\bin\Debug\net8.0\OperadoresPrecedencia.exe
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\bin\Debug\net8.0\OperadoresPrecedencia.deps.json
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\bin\Debug\net8.0\OperadoresPrecedencia.runtimeconfig.json
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\bin\Debug\net8.0\OperadoresPrecedencia.dll
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\bin\Debug\net8.0\OperadoresPrecedencia.pdb
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.AssemblyInfoInputs.cache
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.AssemblyInfo.cs
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.csproj.CoreCompileInputs.cache
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.dll
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\refint\OperadoresPrecedencia.dll
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.pdb
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\OperadoresPrecedencia.genruntimeconfig.cache
+C:\cursos\CSFundamentos1\OperadoresPrecedencia\obj\Debug\net8.0\ref\OperadoresPrecedencia.dll
